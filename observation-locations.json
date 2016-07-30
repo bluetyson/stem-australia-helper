@@ -1,0 +1,1477 @@
+{
+	"format": "linked-data-api",
+	"version": "0.2",
+	"result": {
+		"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice.json",
+		"type": [
+			"http://purl.org/linked-data/api/vocab#ListEndpoint",
+			"http://purl.org/linked-data/api/vocab#Page"
+		],
+		"definition": "http://lab.environment.data.gov.au/meta/data/acorn/climate/slice.json",
+		"extendedMetadataVersion": "http://lab.environment.data.gov.au/data/acorn/climate/slice.json?_metadata=all",
+		"first": "http://lab.environment.data.gov.au/data/acorn/climate/slice.json?_page=0",
+		"hasPart": "http://lab.environment.data.gov.au/data/acorn/climate/slice.json",
+		"isPartOf": "http://lab.environment.data.gov.au/data/acorn/climate/slice.json",
+		"items": [
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/023090",
+				"label": "All observations for series 023090",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Adelaide_023090_023000",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/023090",
+						"lat": "-34.921",
+						"long": "138.622"
+					},
+					"label": "Adelaide (023090/023000)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/009741",
+				"label": "All observations for series 009741",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Albany_009741_009500",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/009741",
+						"lat": "-34.941",
+						"long": "117.802"
+					},
+					"label": "Albany (009741/009500)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/015590",
+				"label": "All observations for series 015590",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Alice_Springs_015590_015540",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/015590",
+						"lat": "-23.795",
+						"long": "133.889"
+					},
+					"label": "Alice Springs (015590/015540)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/040004",
+				"label": "All observations for series 040004",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Amberley_040004",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/040004",
+						"lat": "-27.63",
+						"long": "152.711"
+					},
+					"label": "Amberley (040004)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/036007",
+				"label": "All observations for series 036007",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Barcaldine_036007",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/036007",
+						"lat": "-23.554",
+						"long": "145.288"
+					},
+					"label": "Barcaldine (036007)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/063005",
+				"label": "All observations for series 063005",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Bathurst_063005",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/063005",
+						"lat": "-33.429",
+						"long": "149.556"
+					},
+					"label": "Bathurst (063005)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/038026",
+				"label": "All observations for series 038026",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Birdsville_038026_038002",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/038026",
+						"lat": "-25.898",
+						"long": "139.347"
+					},
+					"label": "Birdsville (038026/038002)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/038003",
+				"label": "All observations for series 038003",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Boulia_038003",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/038003",
+						"lat": "-22.912",
+						"long": "139.904"
+					},
+					"label": "Boulia (038003)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/048245",
+				"label": "All observations for series 048245",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Bourke_048245_048239_048013",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/048245",
+						"lat": "-30.036",
+						"long": "145.952"
+					},
+					"label": "Bourke (048245/048239/048013)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/009510",
+				"label": "All observations for series 009510",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Bridgetown_009510",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/009510",
+						"lat": "-33.958",
+						"long": "116.138"
+					},
+					"label": "Bridgetown (009510)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/040842",
+				"label": "All observations for series 040842",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Brisbane_Airport_040842_040223",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/040842",
+						"lat": "-27.392",
+						"long": "153.129"
+					},
+					"label": "Brisbane Airport (040842/040223)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/003003",
+				"label": "All observations for series 003003",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Broome_Airport_003003_003089_003002",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/003003",
+						"lat": "-17.948",
+						"long": "122.235"
+					},
+					"label": "Broome Airport (003003/003089/003002)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/039128",
+				"label": "All observations for series 039128",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Bundaberg_039128_039015",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/039128",
+						"lat": "-24.907",
+						"long": "152.323"
+					},
+					"label": "Bundaberg (039128/039015)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/029077",
+				"label": "All observations for series 029077",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Burketown_029077_029004",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/029077",
+						"lat": "-17.748",
+						"long": "139.536"
+					},
+					"label": "Burketown (029077/029004)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/096003",
+				"label": "All observations for series 096003",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Butlers_Gorge_096003_096071",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/096003",
+						"lat": "-42.275",
+						"long": "146.276"
+					},
+					"label": "Butlers Gorge (096003/096071)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/072161",
+				"label": "All observations for series 072161",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cabramurra_072161_072091",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/072161",
+						"lat": "-35.937",
+						"long": "148.378"
+					},
+					"label": "Cabramurra (072161/072091)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/031011",
+				"label": "All observations for series 031011",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cairns_031011_031010",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/031011",
+						"lat": "-16.874",
+						"long": "145.746"
+					},
+					"label": "Cairns (031011/031010)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/037010",
+				"label": "All observations for series 037010",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Camooweal_037010",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/037010",
+						"lat": "-19.922",
+						"long": "138.121"
+					},
+					"label": "Camooweal (037010)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/070351",
+				"label": "All observations for series 070351",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Canberra_070351_070014_070338",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/070351",
+						"lat": "-35.309",
+						"long": "149.2"
+					},
+					"label": "Canberra (070351/070014/070338)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/022823",
+				"label": "All observations for series 022823",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cape_Borda_022823_022801",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/022823",
+						"lat": "-35.755",
+						"long": "136.596"
+					},
+					"label": "Cape Borda (022823/022801)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/094010",
+				"label": "All observations for series 094010",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Bruny_Island_094010",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/094010",
+						"lat": "-43.489",
+						"long": "147.145"
+					},
+					"label": "Bruny Island (094010)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/009518",
+				"label": "All observations for series 009518",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cape_Leeuwin_009518",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/009518",
+						"lat": "-34.373",
+						"long": "115.136"
+					},
+					"label": "Cape Leeuwin (009518)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/040043",
+				"label": "All observations for series 040043",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cape_Moreton_040043",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/040043",
+						"lat": "-27.031",
+						"long": "153.466"
+					},
+					"label": "Cape Moreton (040043)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/090015",
+				"label": "All observations for series 090015",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cape_Otway_090015",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/090015",
+						"lat": "-38.856",
+						"long": "143.513"
+					},
+					"label": "Cape Otway (090015)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/006011",
+				"label": "All observations for series 006011",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Carnarvon_006011_006062",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/006011",
+						"lat": "-24.888",
+						"long": "113.67"
+					},
+					"label": "Carnarvon (006011/006062)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/018012",
+				"label": "All observations for series 018012",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Ceduna_018012",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/018012",
+						"lat": "-32.13",
+						"long": "133.698"
+					},
+					"label": "Ceduna (018012)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/044021",
+				"label": "All observations for series 044021",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Charleville_044021_044221_044022",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/044021",
+						"lat": "-26.414",
+						"long": "146.256"
+					},
+					"label": "Charleville (044021/044221/044022)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/034084",
+				"label": "All observations for series 034084",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Charters_Towers_034084_034002",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/034084",
+						"lat": "-20.046",
+						"long": "146.271"
+					},
+					"label": "Charters Towers (034084/034002)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/048027",
+				"label": "All observations for series 048027",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cobar_048027_048030",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/048027",
+						"lat": "-31.484",
+						"long": "145.829"
+					},
+					"label": "Cobar (048027/048030)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/059040",
+				"label": "All observations for series 059040",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Coffs_Harbour_059040",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/059040",
+						"lat": "-30.311",
+						"long": "153.119"
+					},
+					"label": "Coffs Harbour (059040)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/010286",
+				"label": "All observations for series 010286",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Cunderdin_010286_010035",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/010286",
+						"lat": "-31.622",
+						"long": "117.222"
+					},
+					"label": "Cunderdin (010286/010035)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/008039",
+				"label": "All observations for series 008039",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Dalwallinu_008039",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/008039",
+						"lat": "-30.277",
+						"long": "116.662"
+					},
+					"label": "Dalwallinu (008039)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/014015",
+				"label": "All observations for series 014015",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Darwin_014015_014040_014016",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/014015",
+						"lat": "-12.424",
+						"long": "130.892"
+					},
+					"label": "Darwin (014015/014040/014016)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/074258",
+				"label": "All observations for series 074258",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Deniliquin_074258_074128",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/074258",
+						"lat": "-35.558",
+						"long": "144.946"
+					},
+					"label": "Deniliquin (074258/074128)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/065070",
+				"label": "All observations for series 065070",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Dubbo_065070_065012",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/065070",
+						"lat": "-32.221",
+						"long": "148.575"
+					},
+					"label": "Dubbo (065070/065012)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/092045",
+				"label": "All observations for series 092045",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Eddystone_Point_092045",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/092045",
+						"lat": "-40.993",
+						"long": "148.347"
+					},
+					"label": "Eddystone Point (092045)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/009789",
+				"label": "All observations for series 009789",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Esperance_009789_009541",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/009789",
+						"lat": "-33.83",
+						"long": "121.892"
+					},
+					"label": "Esperance (009789/009541)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/011003",
+				"label": "All observations for series 011003",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Eucla_011003",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/011003",
+						"lat": "-31.68",
+						"long": "128.879"
+					},
+					"label": "Eucla (011003)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/011052",
+				"label": "All observations for series 011052",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Forrest_011052_011004",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/011052",
+						"lat": "-30.845",
+						"long": "128.109"
+					},
+					"label": "Forrest (011052/011004)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/084016",
+				"label": "All observations for series 084016",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Gabo_Island_084016",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/084016",
+						"lat": "-37.568",
+						"long": "149.916"
+					},
+					"label": "Gabo Island (084016)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/039066",
+				"label": "All observations for series 039066",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Gayndah_039066_039039",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/039066",
+						"lat": "-25.617",
+						"long": "151.616"
+					},
+					"label": "Gayndah (039066/039039)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/030124",
+				"label": "All observations for series 030124",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Georgetown_030124_030018",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/030124",
+						"lat": "-18.304",
+						"long": "143.531"
+					},
+					"label": "Georgetown (030124/030018)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/008051",
+				"label": "All observations for series 008051",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Geraldton_008051_008050",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/008051",
+						"lat": "-28.795",
+						"long": "114.698"
+					},
+					"label": "Geraldton (008051/008050)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/013017",
+				"label": "All observations for series 013017",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Giles_013017",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/013017",
+						"lat": "-25.034",
+						"long": "128.301"
+					},
+					"label": "Giles (013017)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/094220",
+				"label": "All observations for series 094220",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Grove_094220_094069",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/094220",
+						"lat": "-42.986",
+						"long": "147.074"
+					},
+					"label": "Grove (094220/094069)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/055024",
+				"label": "All observations for series 055024",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Gunnedah_055024",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/055024",
+						"lat": "-31.026",
+						"long": "150.269"
+					},
+					"label": "Gunnedah (055024)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/002012",
+				"label": "All observations for series 002012",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Halls_Creek_002012_002071_002011",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/002012",
+						"lat": "-18.229",
+						"long": "127.664"
+					},
+					"label": "Halls Creek (002012/002071/002011)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/094029",
+				"label": "All observations for series 094029",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Hobart_094029",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/094029",
+						"lat": "-42.89",
+						"long": "147.328"
+					},
+					"label": "Hobart (094029)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/027058",
+				"label": "All observations for series 027058",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Horn_Island_027058_027022_027021",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/027058",
+						"lat": "-10.584",
+						"long": "142.29"
+					},
+					"label": "Horn Island (027058/027022/027021)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/056242",
+				"label": "All observations for series 056242",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Inverell_056242_056017",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/056242",
+						"lat": "-29.78",
+						"long": "151.112"
+					},
+					"label": "Inverell (056242/056017)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/012038",
+				"label": "All observations for series 012038",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Kalgoorlie-Boulder_012038_012039",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/012038",
+						"lat": "-30.785",
+						"long": "121.453"
+					},
+					"label": "Kalgoorlie-Boulder (012038/012039)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/001019",
+				"label": "All observations for series 001019",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Kalumburu_001019_001021",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/001019",
+						"lat": "-14.296",
+						"long": "126.645"
+					},
+					"label": "Kalumburu (001019/001021)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/010579",
+				"label": "All observations for series 010579",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Katanning_010579",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/010579",
+						"lat": "-33.689",
+						"long": "117.555"
+					},
+					"label": "Katanning (010579)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/080023",
+				"label": "All observations for series 080023",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Kerang_080023",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/080023",
+						"lat": "-35.724",
+						"long": "143.92"
+					},
+					"label": "Kerang (080023)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/018044",
+				"label": "All observations for series 018044",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Kyancutta_018044",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/018044",
+						"lat": "-33.133",
+						"long": "135.555"
+					},
+					"label": "Kyancutta (018044)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/091311",
+				"label": "All observations for series 091311",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Launceston_Airport_091311_091104_091049",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/091311",
+						"lat": "-41.549",
+						"long": "147.214"
+					},
+					"label": "Launceston Airport (091311/091104/091049)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/087031",
+				"label": "All observations for series 087031",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Laverton_087031",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/087031",
+						"lat": "-37.856",
+						"long": "144.757"
+					},
+					"label": "Laverton (087031)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/005007",
+				"label": "All observations for series 005007",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Learmonth_005007",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/005007",
+						"lat": "-22.241",
+						"long": "114.097"
+					},
+					"label": "Learmonth (005007)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/036031",
+				"label": "All observations for series 036031",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Longreach_036031_036167_036030",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/036031",
+						"lat": "-23.437",
+						"long": "144.277"
+					},
+					"label": "Longreach (036031/036167/036030)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/091293",
+				"label": "All observations for series 091293",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Low_Head_091293_091057",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/091293",
+						"lat": "-41.055",
+						"long": "146.787"
+					},
+					"label": "Low Head (091293/091057)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/033119",
+				"label": "All observations for series 033119",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Mackay_033119_033297_033047_033046",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/033119",
+						"lat": "-21.117",
+						"long": "149.217"
+					},
+					"label": "Mackay (033119/033297/033047/033046)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/004106",
+				"label": "All observations for series 004106",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Marble_Bar_004106_004020",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/004106",
+						"lat": "-21.176",
+						"long": "119.75"
+					},
+					"label": "Marble Bar (004106/004020)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/017031",
+				"label": "All observations for series 017031",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Marree_017031_017024",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/017031",
+						"lat": "-29.648",
+						"long": "138.064"
+					},
+					"label": "Marree (017031/017024)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/007045",
+				"label": "All observations for series 007045",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Meekatharra_007045_007204_007046",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/007045",
+						"lat": "-26.614",
+						"long": "118.537"
+					},
+					"label": "Meekatharra (007045/007204/007046)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/086071",
+				"label": "All observations for series 086071",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Melbourne_Regional_Office_086071",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/086071",
+						"lat": "-37.808",
+						"long": "144.97"
+					},
+					"label": "Melbourne Regional Office (086071)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/010092",
+				"label": "All observations for series 010092",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Merredin_010092_010093",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/010092",
+						"lat": "-31.476",
+						"long": "118.279"
+					},
+					"label": "Merredin (010092/010093)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/076031",
+				"label": "All observations for series 076031",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Mildura_076031_076077",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/076031",
+						"lat": "-34.236",
+						"long": "142.087"
+					},
+					"label": "Mildura (076031/076077)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/042112",
+				"label": "All observations for series 042112",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Miles_042112_042023",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/042112",
+						"lat": "-26.657",
+						"long": "150.182"
+					},
+					"label": "Miles (042112/042023)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/008296",
+				"label": "All observations for series 008296",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Morawa_008296_008093",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/008296",
+						"lat": "-29.204",
+						"long": "116.025"
+					},
+					"label": "Morawa (008296/008093)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/053115",
+				"label": "All observations for series 053115",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Moree_053115_053048_053027",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/053115",
+						"lat": "-29.49",
+						"long": "149.847"
+					},
+					"label": "Moree (053115/053048/053027)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/069018",
+				"label": "All observations for series 069018",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Moruya_Heads_069018",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/069018",
+						"lat": "-35.909",
+						"long": "150.153"
+					},
+					"label": "Moruya Heads (069018)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/026021",
+				"label": "All observations for series 026021",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Mount_Gambier_026021_026020",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/026021",
+						"lat": "-37.747",
+						"long": "140.774"
+					},
+					"label": "Mount Gambier (026021/026020)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/078015",
+				"label": "All observations for series 078015",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Nhill_078015_078031",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/078015",
+						"lat": "-36.309",
+						"long": "141.649"
+					},
+					"label": "Nhill (078015/078031)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/029063",
+				"label": "All observations for series 029063",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Normanton_029063_029041",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/029063",
+						"lat": "-17.687",
+						"long": "141.073"
+					},
+					"label": "Normanton (029063/029041)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/068072",
+				"label": "All observations for series 068072",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Nowra_068072_068076",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/068072",
+						"lat": "-34.947",
+						"long": "150.535"
+					},
+					"label": "Nowra (068072/068076)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/023373",
+				"label": "All observations for series 023373",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Nuriootpa_023373_023321",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/023373",
+						"lat": "-34.476",
+						"long": "139.006"
+					},
+					"label": "Nuriootpa (023373/023321)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/017043",
+				"label": "All observations for series 017043",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Oodnadatta_017043_017114",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/017043",
+						"lat": "-27.555",
+						"long": "135.446"
+					},
+					"label": "Oodnadatta (017043/017114)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/084145",
+				"label": "All observations for series 084145",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Orbost_084145_084030",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/084145",
+						"lat": "-37.692",
+						"long": "148.467"
+					},
+					"label": "Orbost (084145/084030)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/028004",
+				"label": "All observations for series 028004",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Palmerville_028004",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/028004",
+						"lat": "-16.001",
+						"long": "144.076"
+					},
+					"label": "Palmerville (028004)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/009021",
+				"label": "All observations for series 009021",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Perth_009021_009250_009034",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/009021",
+						"lat": "-31.928",
+						"long": "115.976"
+					},
+					"label": "Perth (009021/009250/009034)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/068151",
+				"label": "All observations for series 068151",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Point_Perpendicular_068151_068034",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/068151",
+						"lat": "-35.094",
+						"long": "150.805"
+					},
+					"label": "Point Perpendicular (068151/068034)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/004032",
+				"label": "All observations for series 004032",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Port_Hedland_004032_004104_004002",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/004032",
+						"lat": "-20.372",
+						"long": "118.632"
+					},
+					"label": "Port Hedland (004032/004104/004002)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/018192",
+				"label": "All observations for series 018192",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Port_Lincoln_018192_018070",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/018192",
+						"lat": "-34.599",
+						"long": "135.878"
+					},
+					"label": "Port Lincoln (018192/018070)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/060139",
+				"label": "All observations for series 060139",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Port_Macquarie_060139_060026",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/060139",
+						"lat": "-31.434",
+						"long": "152.866"
+					},
+					"label": "Port Macquarie (060139/060026)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/015666",
+				"label": "All observations for series 015666",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Rabbit_Flat__015666_015548",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/015666",
+						"lat": "-20.182",
+						"long": "130.015"
+					},
+					"label": "Rabbit Flat (015666/015548)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/067105",
+				"label": "All observations for series 067105",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Richmond_067105_067033",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/067105",
+						"lat": "-33.6",
+						"long": "150.776"
+					},
+					"label": "Richmond (067105/067033)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/030045",
+				"label": "All observations for series 030045",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Richmond_030045",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/030045",
+						"lat": "-20.729",
+						"long": "143.142"
+					},
+					"label": "Richmond (030045)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/026026",
+				"label": "All observations for series 026026",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Robe_026026",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/026026",
+						"lat": "-37.163",
+						"long": "139.756"
+					},
+					"label": "Robe (026026)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/039083",
+				"label": "All observations for series 039083",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Rockhampton_039083",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/039083",
+						"lat": "-23.375",
+						"long": "150.478"
+					},
+					"label": "Rockhampton (039083)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/082039",
+				"label": "All observations for series 082039",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Rutherglen_082039",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/082039",
+						"lat": "-36.105",
+						"long": "146.509"
+					},
+					"label": "Rutherglen (082039)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/085072",
+				"label": "All observations for series 085072",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Sale_085072_085298",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/085072",
+						"lat": "-38.116",
+						"long": "147.132"
+					},
+					"label": "Sale (085072/085298)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/061363",
+				"label": "All observations for series 061363",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Scone_061363_061089",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/061363",
+						"lat": "-32.034",
+						"long": "150.826"
+					},
+					"label": "Scone (061363/061089)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/021133",
+				"label": "All observations for series 021133",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Snowtown_021133_021046",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/021133",
+						"lat": "-33.768",
+						"long": "138.218"
+					},
+					"label": "Snowtown (021133/021046)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/043109",
+				"label": "All observations for series 043109",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/St_George_043109_043034",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/043109",
+						"lat": "-28.049",
+						"long": "148.594"
+					},
+					"label": "St George (043109/043034)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/066062",
+				"label": "All observations for series 066062",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Sydney_066062",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/066062",
+						"lat": "-33.861",
+						"long": "151.205"
+					},
+					"label": "Sydney (066062)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/016098",
+				"label": "All observations for series 016098",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Tarcoola_016098_016044",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/016098",
+						"lat": "-30.705",
+						"long": "134.579"
+					},
+					"label": "Tarcoola (016098/016044)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/015135",
+				"label": "All observations for series 015135",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Tennant_Creek_015135_015087",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/015135",
+						"lat": "-19.642",
+						"long": "134.183"
+					},
+					"label": "Tennant Creek (015135/015087)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/045025",
+				"label": "All observations for series 045025",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Thargomindah_045025_045017",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/045025",
+						"lat": "-27.987",
+						"long": "143.815"
+					},
+					"label": "Thargomindah (045025/045017)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/046037",
+				"label": "All observations for series 046037",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Tibooburra_046037",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/046037",
+						"lat": "-29.434",
+						"long": "142.01"
+					},
+					"label": "Tibooburra (046037)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/032040",
+				"label": "All observations for series 032040",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Townsville_032040_032178",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/032040",
+						"lat": "-19.248",
+						"long": "146.766"
+					},
+					"label": "Townsville (032040/032178)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/014825",
+				"label": "All observations for series 014825",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Victoria_River_Downs_014825",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/014825",
+						"lat": "-16.403",
+						"long": "131.014"
+					},
+					"label": "Victoria River Downs (014825)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/072150",
+				"label": "All observations for series 072150",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wagga_Wagga_072150_072151",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/072150",
+						"lat": "-35.158",
+						"long": "147.457"
+					},
+					"label": "Wagga Wagga (072150/072151)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/052088",
+				"label": "All observations for series 052088",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Walgett_052088_052026",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/052088",
+						"lat": "-30.037",
+						"long": "148.122"
+					},
+					"label": "Walgett (052088/052026)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/010917",
+				"label": "All observations for series 010917",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wandering_010917_010648",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/010917",
+						"lat": "-32.672",
+						"long": "116.671"
+					},
+					"label": "Wandering (010917/010648)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/027045",
+				"label": "All observations for series 027045",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Weipa_027045_027042",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/027045",
+						"lat": "-12.678",
+						"long": "141.921"
+					},
+					"label": "Weipa (027045/027042)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/046043",
+				"label": "All observations for series 046043",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wilcannia_046043",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/046043",
+						"lat": "-31.563",
+						"long": "143.375"
+					},
+					"label": "Wilcannia (046043)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/061078",
+				"label": "All observations for series 061078",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Williamtown_061078",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/061078",
+						"lat": "-32.793",
+						"long": "151.836"
+					},
+					"label": "Williamtown (061078)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/085096",
+				"label": "All observations for series 085096",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wilsons_Promontory_085096",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/085096",
+						"lat": "-39.13",
+						"long": "146.424"
+					},
+					"label": "Wilsons Promontory (085096)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/005026",
+				"label": "All observations for series 005026",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wittenoom_005026",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/005026",
+						"lat": "-22.242",
+						"long": "118.336"
+					},
+					"label": "Wittenoom (005026)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/016001",
+				"label": "All observations for series 016001",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Woomera_016001",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/016001",
+						"lat": "-31.156",
+						"long": "136.805"
+					},
+					"label": "Woomera (016001)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/073054",
+				"label": "All observations for series 073054",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Wyalong_073054",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/073054",
+						"lat": "-33.926",
+						"long": "147.242"
+					},
+					"label": "Wyalong (073054)"
+				}
+			},
+			{
+				"_about": "http://lab.environment.data.gov.au/data/acorn/climate/slice/station/058012",
+				"label": "All observations for series 058012",
+				"observedBy": {
+					"_about": "http://lab.environment.data.gov.au/id/acorn-system/Yamba_058012",
+					"currentSite": {
+						"_about": "http://lab.environment.data.gov.au/id/station/058012",
+						"lat": "-29.433",
+						"long": "153.363"
+					},
+					"label": "Yamba (058012)"
+				}
+			}
+		],
+		"itemsPerPage": 120,
+		"page": 0,
+		"startIndex": 1
+	}
+}

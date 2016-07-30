@@ -1,0 +1,24 @@
+{
+  "name": "stem-australia-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse-climate-obs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwild/stem-australia-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danwild/stem-australia-helper/issues"
+  },
+  "homepage": "https://github.com/danwild/stem-australia-helper#readme",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.17",
+    "xml2json": "^0.9.1"
+  }
+}
